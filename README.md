@@ -11,7 +11,7 @@ S. Goyal, V. Mistry, C. Chattopadhyay and G. Bhatnagar, "BRIDGE: Building Plan R
 
 ### BibTex
 ```
-@INPROCEEDINGS{8978054,
+@INPROCEEDINGS{goyalicdar19,
   author={Goyal, Shreya and Mistry, Vishesh and Chattopadhyay, Chiranjoy and Bhatnagar, Gaurav},
   booktitle={2019 International Conference on Document Analysis and Recognition (ICDAR)}, 
   title={BRIDGE: Building Plan Repository for Image Description Generation, and Evaluation}, 
