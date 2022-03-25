@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>113781.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/113781.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>1107</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>small bathroom has a large sink with small sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>780</ymin>
+			<xmax>125</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a cooking range with sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>437</ymin>
+			<xmax>292</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>open area has stairs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>670</ymin>
+			<xmax>299</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>

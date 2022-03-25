@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2962.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2962.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1524</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>upstairs has two bedrooms with a bathroom having a tub and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>360</ymin>
+			<xmax>896</xmax>
+			<ymax>884</ymax>
+		</bndbox>
+	</object>
+</annotation>

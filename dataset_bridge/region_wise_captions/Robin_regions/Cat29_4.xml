@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Robin_regions</folder>
+	<filename>Cat29_4.jpg</filename>
+	<path>/media/matrix/Data/BRIDGE/Robin_regions/Cat29_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1177</width>
+		<height>936</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bathroom has a tub, small sinks and a large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>4</ymin>
+			<xmax>1167</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a sink and dining table for eating</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>795</xmin>
+			<ymin>465</ymin>
+			<xmax>1177</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>livingroom has small sofa and tables</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>469</ymin>
+			<xmax>793</xmax>
+			<ymax>826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has two single beds with a round table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>5</ymin>
+			<xmax>639</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

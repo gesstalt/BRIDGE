@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Region_wise_annotations2</folder>
+	<filename>24031.jpeg</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations2/24031.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>853</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>this bathroom has a bathtub and shower space with dual sinks and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>39</ymin>
+			<xmax>345</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>laundry room has a washer and dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>36</ymin>
+			<xmax>655</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>small bathroom has a small and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>273</ymin>
+			<xmax>449</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a kitchen bar with cooking range and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>215</ymin>
+			<xmax>660</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

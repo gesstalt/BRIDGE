@@ -1,0 +1,74 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21602.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21602.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>the master suite complete with french doors to the balcony, fireplace and a spacious master bath and huge his and her walk in closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>172</ymin>
+			<xmax>601</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom with private bathroom and access to laundry room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>185</ymin>
+			<xmax>890</xmax>
+			<ymax>731</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>the master suite complete with french doors to the balcony, fireplace and a spacious master bath and huge his and her walk in closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>174</ymin>
+			<xmax>406</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom with a private bathroom and walk in closets have access to the balcony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>175</ymin>
+			<xmax>884</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has private bedroom with tub space, sink and also has a walk in closet has access to laundry room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>473</ymin>
+			<xmax>887</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>16741.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/16741.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>585</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>this kitchen has a kitchen counter with twin sink and cooking range</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>176</ymin>
+			<xmax>252</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>master bathroom has a large bathtub, dual sinks, shower space and walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>205</ymin>
+			<xmax>538</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>laundry room has washer and dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>175</ymin>
+			<xmax>131</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>small bathroom has small and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>266</ymin>
+			<xmax>69</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

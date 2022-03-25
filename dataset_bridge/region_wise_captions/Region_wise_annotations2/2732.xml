@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2732.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2732.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>upper floor has two bedrooms with shared bathroom having sink and bathing space situated in hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>355</ymin>
+			<xmax>830</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

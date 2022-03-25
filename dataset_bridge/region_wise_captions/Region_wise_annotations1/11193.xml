@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>11193.gif</filename>
+	<path>G:/data_new/D1_densecap/11193.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>554</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs to the upper floor has a closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>95</ymin>
+			<xmax>327</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21251.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21251.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>902</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dining room has a kitchen with kitchen bar, cooking range and access to utilitiea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>169</ymin>
+			<xmax>420</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>covered lanai has a swimming pool and outdoor kitchen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>113</ymin>
+			<xmax>882</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is a master bedroom with bathroom having pool and saperate bathing space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>466</ymin>
+			<xmax>879</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there are stairs near entry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>527</ymin>
+			<xmax>643</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+</annotation>

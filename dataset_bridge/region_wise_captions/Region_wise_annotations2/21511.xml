@@ -1,0 +1,62 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21511.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21511.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1580</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there is a swimming pool, spa and outdoor shower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>75</ymin>
+			<xmax>936</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dining room is with kitchen having kitchen bar and other cooking items</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>503</ymin>
+			<xmax>777</xmax>
+			<ymax>958</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is master bedroom with master mathroom having shower space, sink and walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>482</ymin>
+			<xmax>332</xmax>
+			<ymax>1167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>two bedrooms share a common bathroom with tub space and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>764</xmin>
+			<ymin>507</ymin>
+			<xmax>942</xmax>
+			<ymax>1083</ymax>
+		</bndbox>
+	</object>
+</annotation>

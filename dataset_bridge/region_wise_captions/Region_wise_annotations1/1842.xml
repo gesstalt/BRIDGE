@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1842.gif</filename>
+	<path>G:/data_new/D1_densecap/1842.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs to other floors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>347</ymin>
+			<xmax>317</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a saperate shower space with sink and toilet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>444</ymin>
+			<xmax>211</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>291.jpeg</filename>
+	<path>G:/data_new/D2_densecap/291.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>the covered porch provides the sitting facility and pool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>241</ymin>
+			<xmax>737</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>the large kitchen, dining and living space has access to all the rooms and located centrally</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>604</ymin>
+			<xmax>740</xmax>
+			<ymax>951</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>the master bedroom includes bed, access to private bathroom and access to upstairs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>956</ymin>
+			<xmax>737</xmax>
+			<ymax>1143</ymax>
+		</bndbox>
+	</object>
+</annotation>

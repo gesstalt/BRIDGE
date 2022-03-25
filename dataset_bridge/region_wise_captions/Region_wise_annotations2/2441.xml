@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2441.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2441.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1056</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>the living room has breakfast bar, kitchen and dining facility</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>496</ymin>
+			<xmax>813</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is a covered lanai with swimming pool and outdoor kitchen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>138</ymin>
+			<xmax>826</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>office is adjacent to entry door and staircase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>732</ymin>
+			<xmax>818</xmax>
+			<ymax>884</ymax>
+		</bndbox>
+	</object>
+</annotation>

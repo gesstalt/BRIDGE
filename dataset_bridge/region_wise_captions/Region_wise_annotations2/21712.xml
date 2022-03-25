@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21712.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21712.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bedroom has a bed and private bathroom with tub space and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>454</ymin>
+			<xmax>727</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom is with closet and bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>689</ymin>
+			<xmax>697</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>

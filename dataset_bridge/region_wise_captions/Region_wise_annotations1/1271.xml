@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>1271.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/1271.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>633</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bathroom and dressing room with dual sink, shower space and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>84</ymin>
+			<xmax>325</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen is located dining room with kitchen island and other cooking appliances</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>215</ymin>
+			<xmax>493</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

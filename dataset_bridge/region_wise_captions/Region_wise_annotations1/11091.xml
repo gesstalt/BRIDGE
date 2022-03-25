@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>11091.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/11091.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bathroom having tub, dual sink and toilet shower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>24</ymin>
+			<xmax>200</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stairs to the other floors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>264</ymin>
+			<xmax>394</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there are washer and dryer in the laundry room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>245</ymin>
+			<xmax>502</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a breakfast bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>173</ymin>
+			<xmax>304</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>128762.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/128762.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bathroom has a large tub, dual sinks and a shower space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>80</ymin>
+			<xmax>297</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a large sink, tub and small sink, also has a walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>150</ymin>
+			<xmax>89</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a large sink, tub and small sink, also has a walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>200</ymin>
+			<xmax>90</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a small sink and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>286</ymin>
+			<xmax>331</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

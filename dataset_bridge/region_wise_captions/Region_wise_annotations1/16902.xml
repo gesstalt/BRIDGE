@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>16902.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/16902.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bedroom has a single bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>109</ymin>
+			<xmax>340</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>this is a bedroom with single bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>105</ymin>
+			<xmax>348</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

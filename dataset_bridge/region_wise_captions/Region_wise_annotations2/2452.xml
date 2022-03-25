@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2452.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2452.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bedroom has a walk in closet and private bathroom with bathing space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>140</ymin>
+			<xmax>837</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>master bedroom has a walk in closet and private bathroom with bathing space also has a balcony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>819</ymin>
+			<xmax>459</xmax>
+			<ymax>1237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>master bedroom has a walk in closet and private bathroom with bathing space also has a covered balcony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>995</ymin>
+			<xmax>988</xmax>
+			<ymax>1480</ymax>
+		</bndbox>
+	</object>
+</annotation>

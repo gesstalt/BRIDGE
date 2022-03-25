@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2851.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2851.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen is colocated with living room and dining room and has cooking range and other facilities</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>138</ymin>
+			<xmax>632</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has private bathroom with sink and saperate bathing space and closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>676</xmin>
+			<ymin>149</ymin>
+			<xmax>929</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2462.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2462.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>2595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bedroom has a private bathroom with tub space and walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>930</ymin>
+			<xmax>382</xmax>
+			<ymax>1563</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a private bathroom with tub space and walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>908</ymin>
+			<xmax>893</xmax>
+			<ymax>1347</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>master bedroom has a master bathroom with tub, sink and bathing space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>1866</ymin>
+			<xmax>885</xmax>
+			<ymax>2344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>laundry area near the staircase hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>1344</ymin>
+			<xmax>899</xmax>
+			<ymax>1802</ymax>
+		</bndbox>
+	</object>
+</annotation>

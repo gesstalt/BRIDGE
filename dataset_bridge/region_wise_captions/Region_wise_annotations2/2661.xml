@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2661.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2661.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1459</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen is colocated with living room and has cooking range and other dining facilities</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>404</ymin>
+			<xmax>780</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a private bathroom with sink, tub and laundry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>741</ymin>
+			<xmax>776</xmax>
+			<ymax>1079</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>covered porch has entrance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>1086</ymin>
+			<xmax>784</xmax>
+			<ymax>1458</ymax>
+		</bndbox>
+	</object>
+</annotation>

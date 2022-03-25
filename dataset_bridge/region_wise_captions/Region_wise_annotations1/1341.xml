@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1341.gif</filename>
+	<path>G:/data_new/D1_densecap/1341.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bedroom has a master bathroom with tub, shower, sink and walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>30</ymin>
+			<xmax>548</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is a laundry room and bathroom near the entry of the house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>29</ymin>
+			<xmax>263</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen is with dining area having kitchen bar, cooking range</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>241</ymin>
+			<xmax>217</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

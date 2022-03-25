@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2382.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2382.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there is a bedroom adjacent to stairs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>392</ymin>
+			<xmax>541</xmax>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom with access to a shared bathroom with tub and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>22</ymin>
+			<xmax>806</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>

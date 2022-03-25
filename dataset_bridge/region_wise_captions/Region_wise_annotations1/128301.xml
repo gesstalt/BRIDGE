@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>128301.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/128301.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>livingroom has small couches and other sitting facilities</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>118</ymin>
+			<xmax>220</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a breakfast counter, cooking range and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>285</ymin>
+			<xmax>262</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a small and large sink with shower space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>346</ymin>
+			<xmax>341</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a double bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>352</ymin>
+			<xmax>470</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

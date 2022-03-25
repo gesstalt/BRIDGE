@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>127272.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/127272.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>549</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bathroom has his and her sinks, large sink , tub and shower space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>17</ymin>
+			<xmax>344</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a tub, small and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>219</ymin>
+			<xmax>95</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>laundry room has washer and dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>222</ymin>
+			<xmax>186</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

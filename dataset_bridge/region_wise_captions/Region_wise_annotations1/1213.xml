@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1213.gif</filename>
+	<path>G:/data_new/D1_densecap/1213.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>media room on this floor has a private bathroom with tub and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>11</ymin>
+			<xmax>342</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom with large windows is accessible from hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>52</ymin>
+			<xmax>446</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

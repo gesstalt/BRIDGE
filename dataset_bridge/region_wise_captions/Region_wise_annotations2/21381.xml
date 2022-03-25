@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21381.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21381.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>As you enter the front porch you are welcomed through a pair of doors into the core of the home.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>532</ymin>
+			<xmax>669</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>The open kitchen, dining, and living spaces are great for everyday living as well as entertaining</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>32</ymin>
+			<xmax>444</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>the living room has kitchen and dining facility with sofas, table and dining table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>233</ymin>
+			<xmax>695</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

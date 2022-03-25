@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>17351.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/17351.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen has a cooking range with kitchen counter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>173</ymin>
+			<xmax>343</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>laundry room has a washer and dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>312</ymin>
+			<xmax>265</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a sink and large sink with bathtub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>280</ymin>
+			<xmax>288</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

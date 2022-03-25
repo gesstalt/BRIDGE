@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1712.gif</filename>
+	<path>G:/data_new/D1_densecap/1712.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>upstairs has stairs to the loft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>17</ymin>
+			<xmax>265</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom with tub, sink and toilet has a stairs nearby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>297</ymin>
+			<xmax>433</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

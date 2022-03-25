@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>22731.jpeg</filename>
+	<path>G:/data_new/D2_new/22731.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen has a cooking range, twin sink and other cooking facility</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>173</ymin>
+			<xmax>336</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a small and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>593</ymin>
+			<xmax>220</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a bathroom with closet, shower space and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>688</xmin>
+			<ymin>102</ymin>
+			<xmax>971</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

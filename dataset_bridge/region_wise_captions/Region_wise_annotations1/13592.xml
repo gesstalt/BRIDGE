@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>13592.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/13592.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>small bathroom is with dual sinks, large sink, tub space and closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>108</ymin>
+			<xmax>527</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a tub, small and large sink </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>96</ymin>
+			<xmax>238</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1831.gif</filename>
+	<path>G:/data_new/D1_densecap/1831.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there is a kitchen island in kitchen with cooking range and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>74</ymin>
+			<xmax>304</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is a sink and toilet in bathroom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>201</ymin>
+			<xmax>345</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there are stairs to the upper floor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>198</ymin>
+			<xmax>415</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

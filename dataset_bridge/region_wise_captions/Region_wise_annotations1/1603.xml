@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1603.gif</filename>
+	<path>G:/data_new/D1_densecap/1603.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs for the other floors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>35</ymin>
+			<xmax>451</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>laundry has a washer and dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>32</ymin>
+			<xmax>251</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

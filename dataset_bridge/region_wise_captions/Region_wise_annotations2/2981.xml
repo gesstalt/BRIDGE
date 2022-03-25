@@ -1,0 +1,62 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2981.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2981.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>657</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bedroom has two walk in closets and private bathroom with tub space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>75</ymin>
+			<xmax>745</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>covered lanai has outdoor kitchen, spa and swimming pool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>154</ymin>
+			<xmax>462</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a kitchen bar, other cooking facility and access to laundry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>230</ymin>
+			<xmax>709</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is another bedroom with private bathroom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>773</xmin>
+			<ymin>296</ymin>
+			<xmax>891</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

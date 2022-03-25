@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Region_wise_annotations2</folder>
+	<filename>23881.jpeg</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations2/23881.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>2214</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laundry room has a washer and dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>395</ymin>
+			<xmax>708</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>this kitchen has a sink and cooking range with counter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>728</ymin>
+			<xmax>508</xmax>
+			<ymax>1145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a shower with bathtub and dual sinks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>997</ymin>
+			<xmax>970</xmax>
+			<ymax>1312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a	bathtub and dual sinks and closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>1305</ymin>
+			<xmax>960</xmax>
+			<ymax>1601</ymax>
+		</bndbox>
+	</object>
+</annotation>

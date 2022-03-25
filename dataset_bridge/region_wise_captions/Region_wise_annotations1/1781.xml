@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1781.gif</filename>
+	<path>G:/data_new/D1_densecap/1781.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen has a kitchen island</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>247</ymin>
+			<xmax>338</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a sink and toilet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>240</ymin>
+			<xmax>198</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

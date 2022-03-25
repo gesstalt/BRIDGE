@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1362.gif</filename>
+	<path>G:/data_new/D1_densecap/1362.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there is an extra room which can be used as a study room or bedroom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>41</ymin>
+			<xmax>359</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a double bed which has access to bathroom with tub and dual sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>120</ymin>
+			<xmax>184</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>another bedroom is near the stairs and has a walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>154</ymin>
+			<xmax>457</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

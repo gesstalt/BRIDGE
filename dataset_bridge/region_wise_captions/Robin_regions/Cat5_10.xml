@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Robin_regions</folder>
+	<filename>Cat5_10.jpg</filename>
+	<path>/media/matrix/Data/BRIDGE/Robin_regions/Cat5_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1419</width>
+		<height>944</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen has sinks and multiple tables for dining </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>8</ymin>
+			<xmax>608</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a single bed and couch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>474</ymin>
+			<xmax>460</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a tub and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>469</ymin>
+			<xmax>939</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>living room has large sofas and coffee tables</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>949</xmin>
+			<ymin>10</ymin>
+			<xmax>1419</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>

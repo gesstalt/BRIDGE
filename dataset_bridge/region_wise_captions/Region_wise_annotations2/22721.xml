@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>22721.jpeg</filename>
+	<path>G:/data_new/D2_new/22721.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bedroom has a bathroom with tub, smal and large sink and also has a closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>196</ymin>
+			<xmax>856</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>this bedroom has a bathroom attached with tub and sinks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>201</ymin>
+			<xmax>517</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a cooking range dining table and twin sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>515</ymin>
+			<xmax>492</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+</annotation>

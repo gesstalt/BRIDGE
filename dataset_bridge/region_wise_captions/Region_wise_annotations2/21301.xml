@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21301.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21301.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1113</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>The great room floor plan provides casual living while creating a functional space for hosting friends and family with the kitchen, dining room and outdoor living nearby.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>97</ymin>
+			<xmax>798</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>The master suite offers a private retreat for the owner with large walk in closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>280</ymin>
+			<xmax>916</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Upstairs, your guest will enjoy privacy with split bedrooms, loft with wet bar and access to the rear covered lanai or private balcony.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>659</ymin>
+			<xmax>333</xmax>
+			<ymax>956</ymax>
+		</bndbox>
+	</object>
+</annotation>

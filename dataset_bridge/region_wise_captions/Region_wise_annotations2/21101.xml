@@ -1,0 +1,74 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21101.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21101.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there is a swimming pool in covered lanai and outdoor kitchen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>411</ymin>
+			<xmax>894</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is a master bedroom with master bathroom having walk in closets, tub and saperate bathing area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>672</ymin>
+			<xmax>350</xmax>
+			<ymax>1197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a private bathroom with sink, bathing space and walk in closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>919</ymin>
+			<xmax>942</xmax>
+			<ymax>1219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has a private bathroom with sink, bathing space and walk in closets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>672</ymin>
+			<xmax>936</xmax>
+			<ymax>973</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>great room has kitchen with kitchen bar and dining area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>680</ymin>
+			<xmax>689</xmax>
+			<ymax>1026</ymax>
+		</bndbox>
+	</object>
+</annotation>

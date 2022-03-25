@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>22754.jpeg</filename>
+	<path>G:/data_new/D2_new/22754.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>these are stairs from the loft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>30</ymin>
+			<xmax>777</xmax>
+			<ymax>1121</ymax>
+		</bndbox>
+	</object>
+</annotation>

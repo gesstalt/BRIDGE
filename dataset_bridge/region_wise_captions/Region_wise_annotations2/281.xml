@@ -1,0 +1,74 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>281.jpeg</filename>
+	<path>G:/data_new/D2_densecap/281.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>659</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A welcoming front porch brings you into an open kitchen, living, and dining which open to a rear covered porch.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>450</ymin>
+			<xmax>676</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>The private master suite is conveniently located on the main floor.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>134</ymin>
+			<xmax>869</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>A two stall garage, mud room, laundry, half bath and lake entance are also located off the core of the home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>136</ymin>
+			<xmax>410</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>the large kitchen, dining and living space has access to all the rooms and located centrally</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>132</ymin>
+			<xmax>718</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is another covered porch in the backside of the house with eating and sitting facility</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>34</ymin>
+			<xmax>726</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

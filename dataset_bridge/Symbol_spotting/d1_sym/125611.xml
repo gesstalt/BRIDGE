@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_new</folder>
+	<filename>125611.gif</filename>
+	<path>/media/matrix/Data/data_new/D1_new/125611.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>328</ymin>
+			<xmax>297</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

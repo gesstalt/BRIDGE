@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1763.gif</filename>
+	<path>G:/data_new/D1_densecap/1763.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>room on this floor has stairs to the lower floors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>275</ymin>
+			<xmax>248</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

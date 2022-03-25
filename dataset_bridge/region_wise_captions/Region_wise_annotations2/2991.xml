@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2991.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2991.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a formal dining and living room, beautiful built-in wet bar, spacious upstairs loft area, an elevator and a even separate maids suite complete with a private entrance!</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>748</ymin>
+			<xmax>868</xmax>
+			<ymax>1178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Outside amenities include an outdoor kitchen, a fire pit with lounge area and over 1,500 square feet of outdoor living space.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>152</ymin>
+			<xmax>881</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+</annotation>

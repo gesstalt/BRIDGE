@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>293.jpeg</filename>
+	<path>G:/data_new/D2_densecap/293.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1059</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>The optional bonus room in the attic can be anything imaginable including exercise, kids retreat, bunk room, or studio.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>161</ymin>
+			<xmax>603</xmax>
+			<ymax>792</ymax>
+		</bndbox>
+	</object>
+</annotation>

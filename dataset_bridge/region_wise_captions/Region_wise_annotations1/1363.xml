@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1363.gif</filename>
+	<path>G:/data_new/D1_densecap/1363.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>storage is near the stairs and has access to bathroom with sink , shower and toilet space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>201</ymin>
+			<xmax>425</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

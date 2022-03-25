@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Robin_regions</folder>
+	<filename>Cat8_3.jpg</filename>
+	<path>/media/matrix/Data/BRIDGE/Robin_regions/Cat8_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>1425</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bathroom has a tub and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>12</ymin>
+			<xmax>481</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has single bed and small sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>6</ymin>
+			<xmax>836</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has sink, dining table and large sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>487</ymin>
+			<xmax>831</xmax>
+			<ymax>1420</ymax>
+		</bndbox>
+	</object>
+</annotation>

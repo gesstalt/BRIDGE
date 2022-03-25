@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1392.gif</filename>
+	<path>G:/data_new/D1_densecap/1392.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bedroom is with master bathroom which has a shower, sink and toilet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>21</ymin>
+			<xmax>435</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

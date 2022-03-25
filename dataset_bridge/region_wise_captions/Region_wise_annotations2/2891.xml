@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2891.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2891.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>888</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>The first level has a combined living/dining/kitchen that spills out onto the porches and a private walled courtyard.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>56</ymin>
+			<xmax>528</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>the multi-purpose room has a bathroom with saperate bathing space and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>54</ymin>
+			<xmax>891</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

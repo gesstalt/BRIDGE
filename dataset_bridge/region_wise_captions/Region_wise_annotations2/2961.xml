@@ -1,0 +1,65 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2961.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2961.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1584</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>The opening, which begins as a closet door under
+the stairs converts to the Master Bedroom Door.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>259</ymin>
+			<xmax>823</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>The optional addition
+is a full Master Bedroom Suite, including closet and full bathroom.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>259</ymin>
+			<xmax>672</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>The opening, which begins as a closet door under
+the stairs converts to the Master Bedroom Door.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>610</ymin>
+			<xmax>840</xmax>
+			<ymax>1025</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is an entry porch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>1019</ymin>
+			<xmax>814</xmax>
+			<ymax>1325</ymax>
+		</bndbox>
+	</object>
+</annotation>

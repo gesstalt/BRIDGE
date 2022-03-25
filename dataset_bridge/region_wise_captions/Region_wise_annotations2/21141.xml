@@ -1,0 +1,62 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21141.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21141.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>2437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there is kitchen in the great room with dining room having sink and kitchen bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>1037</ymin>
+			<xmax>971</xmax>
+			<ymax>2213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>master bedroom has a master bathroom with closet and saperate tub and bathing space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>892</ymin>
+			<xmax>534</xmax>
+			<ymax>1582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>two bedrooms share a bathroom with tub, sink and closet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>1592</ymin>
+			<xmax>502</xmax>
+			<ymax>2437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there is a screened porch with laundry and storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>658</ymin>
+			<xmax>947</xmax>
+			<ymax>1042</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>1253.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/1253.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>562</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bathroom with saperate shower and tub space and sink and also walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>78</ymin>
+			<xmax>174</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

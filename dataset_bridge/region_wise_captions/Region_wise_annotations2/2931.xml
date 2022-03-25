@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2931.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2931.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>This studio building was designed for a musician and artist couple who each needed their own space, but could serve many purposes - Pool house, guest suite, home office, workshop to name a few.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>445</ymin>
+			<xmax>842</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has a sink and saperate bathing space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>33</ymin>
+			<xmax>588</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

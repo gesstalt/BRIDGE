@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>22901.jpeg</filename>
+	<path>G:/data_new/D2_new/22901.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen has a breakfast counter, twin sink and cooing range</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>67</ymin>
+			<xmax>717</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>the bathroom has a closet, shower space and small and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>383</ymin>
+			<xmax>878</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>this is an open bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>490</ymin>
+			<xmax>330</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>

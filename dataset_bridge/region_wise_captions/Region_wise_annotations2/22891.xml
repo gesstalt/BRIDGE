@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>22891.jpeg</filename>
+	<path>G:/data_new/D2_new/22891.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>master bedroom has a bathroom joint having tub, small and large sink space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>105</ymin>
+			<xmax>999</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has a sink, cooking range and dining counter and has access to laundry room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>558</ymin>
+			<xmax>985</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>livingroom is accessible from entry and has a closet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>433</ymin>
+			<xmax>589</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+</annotation>

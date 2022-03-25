@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1292.gif</filename>
+	<path>G:/data_new/D1_densecap/1292.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>453</width>
+		<height>296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>the loft can be used as storage and has a bedroom which has private bathroom having tub, sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>19</ymin>
+			<xmax>441</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

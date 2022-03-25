@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>1442.gif</filename>
+	<path>G:/data_new/D1_densecap/1442.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there are two bedrooms on this floor which has a shared bathroom with tub and sink and walk in closet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>1</ymin>
+			<xmax>357</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

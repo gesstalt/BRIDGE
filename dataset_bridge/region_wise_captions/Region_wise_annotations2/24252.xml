@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Region_wise_annotations2</folder>
+	<filename>24252.jpeg</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations2/24252.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there are stairs in the open area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>275</ymin>
+			<xmax>457</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>this bathroom has a small and large sink with shower room</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymin>280</ymin>
+			<xmax>828</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>there are stairs from outside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>66</ymin>
+			<xmax>938</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Region_wise_annotations1</folder>
+	<filename>17451.gif</filename>
+	<path>/media/matrix/Data/BRIDGE/Region_wise_annotations1/17451.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen has a cooking range and sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>53</ymin>
+			<xmax>491</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

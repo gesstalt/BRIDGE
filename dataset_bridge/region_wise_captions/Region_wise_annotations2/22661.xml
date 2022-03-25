@@ -1,0 +1,38 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>22661.jpeg</filename>
+	<path>G:/data_new/D2_new/22661.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen is with living room and has twin sink, cooking range and washer dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>410</ymin>
+			<xmax>811</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>master bedroom is jointly located with bathroom, which has tub, twin sin and large sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>49</ymin>
+			<xmax>984</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

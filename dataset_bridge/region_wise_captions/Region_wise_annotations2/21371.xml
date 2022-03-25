@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21371.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21371.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A four stall garage and enclosed storage area reside under the pilings for all your beach toys.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>147</ymin>
+			<xmax>646</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

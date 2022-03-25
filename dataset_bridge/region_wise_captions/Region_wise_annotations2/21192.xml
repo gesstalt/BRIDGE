@@ -1,0 +1,52 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21192.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21192.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Storage space is enormous by utilizing the eave area
+between floor and rafter bearing.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>127</ymin>
+			<xmax>782</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>second level study creates
+home office opportunity.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>97</ymin>
+			<xmax>531</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>master bedroom with a master bathroom having large bathing space and enourmous storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>205</ymin>
+			<xmax>787</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>212651.jpeg</filename>
+	<path>C:/Users/CC/Downloads/Radhika/D2_new/212651.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>119</ymin>
+			<xmax>521</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

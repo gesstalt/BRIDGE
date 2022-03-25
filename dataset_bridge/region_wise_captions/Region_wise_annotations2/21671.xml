@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21671.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21671.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>2610</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>there is a bonus room on the upper floor with storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>70</ymin>
+			<xmax>976</xmax>
+			<ymax>2453</ymax>
+		</bndbox>
+	</object>
+</annotation>

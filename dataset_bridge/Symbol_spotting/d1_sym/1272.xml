@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_new</folder>
+	<filename>1272.gif</filename>
+	<path>G:/data_new/D1_new/1272.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>160</ymin>
+			<xmax>277</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

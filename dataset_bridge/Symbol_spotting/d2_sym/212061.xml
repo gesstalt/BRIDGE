@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_new</folder>
+	<filename>212061.jpeg</filename>
+	<path>C:/Users/CC/Downloads/Radhika/D2_new/212061.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>164</ymin>
+			<xmax>506</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

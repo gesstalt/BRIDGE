@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>2233.jpeg</filename>
+	<path>G:/data_new/D2_densecap/2233.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>965</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>The unique feature is the tower room at the top, with its own deck.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>40</ymin>
+			<xmax>848</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

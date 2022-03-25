@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Robin_regions</folder>
+	<filename>Cat38_4.jpg</filename>
+	<path>/media/matrix/Data/BRIDGE/Robin_regions/Cat38_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2803</width>
+		<height>1852</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hall has a round table for dining and other coffee tables</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>9</ymin>
+			<xmax>1190</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>this is a large living room and has multiple couches, coffee tables and armchairs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>513</ymin>
+			<xmax>858</xmax>
+			<ymax>1844</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen has sink and multiple dining tables for eating and dining</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1180</xmin>
+			<ymin>17</ymin>
+			<xmax>2790</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom has two sets of twin beds, chairs and round tables</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1164</xmin>
+			<ymin>530</ymin>
+			<xmax>2269</xmax>
+			<ymax>1852</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bathroom has tub, large and small sink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2268</xmin>
+			<ymin>521</ymin>
+			<xmax>2800</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+</annotation>

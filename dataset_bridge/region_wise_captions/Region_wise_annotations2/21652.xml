@@ -1,0 +1,50 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21652.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21652.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>2143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bedroom is with a bathroom having tub and sink space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>294</ymin>
+			<xmax>985</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bedroom is with a bathroom having tub and sink space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>1176</ymin>
+			<xmax>997</xmax>
+			<ymax>1708</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>second floor offers den area for kids to relax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>846</ymin>
+			<xmax>983</xmax>
+			<ymax>1251</ymax>
+		</bndbox>
+	</object>
+</annotation>

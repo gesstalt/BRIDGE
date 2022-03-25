@@ -1,0 +1,62 @@
+<annotation>
+	<folder>D2_densecap</folder>
+	<filename>21581.jpeg</filename>
+	<path>G:/data_new/D2_densecap/21581.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1551</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>On the second level, the open concept floor plan enjoys a spacious kitchen that flows into the dining and great rooms to the left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>442</ymin>
+			<xmax>955</xmax>
+			<ymax>905</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>A second bedroom is found across the hall with walk-in closet and access and private bath.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>893</ymin>
+			<xmax>959</xmax>
+			<ymax>1383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>The master suite lies to the front of the second level and includes a walk-in closet and dual sinks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>896</ymin>
+			<xmax>477</xmax>
+			<ymax>1431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>A wrap around deck from the main level adds another entire form of living to this home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>172</ymin>
+			<xmax>1008</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

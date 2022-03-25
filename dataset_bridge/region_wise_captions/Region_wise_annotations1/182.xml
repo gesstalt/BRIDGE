@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D1_densecap</folder>
+	<filename>182.gif</filename>
+	<path>G:/data_new/D1_densecap/182.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>the loft on the upper floor can be used as a storage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>105</ymin>
+			<xmax>431</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
